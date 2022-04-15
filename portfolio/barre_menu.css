@@ -1,0 +1,48 @@
+header{
+    display: flex;
+    border-bottom:  solid 2px;
+    margin-top: -0.5%;
+    padding-top: 1%;
+    background: linear-gradient(to bottom, grey, black);
+    justify-content: space-between;
+}
+
+body{
+  margin: 0rem;
+  background: linear-gradient(to left, rgb(80, 80, 80), grey);
+  color: beige;
+}
+
+header>h1{
+    font-size: medium;
+}
+
+header>div>a{   
+    font-size: medium;
+    padding-left: 1rem;
+}
+
+header>div{
+    display: flex;
+}
+
+header>*{
+    padding-left: 1rem;
+}
+
+p,h2,h3{
+    margin-left: 1rem;
+}
+
+header>a>img{
+    height : 2rem;
+}
+
+@media screen and (max-width : 1600px){
+    header>a{
+        font-size: smaller;
+    }
+    header>h1{
+        font-size: small;
+    }
+}

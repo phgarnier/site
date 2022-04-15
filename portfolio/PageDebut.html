@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body{
+            background: linear-gradient(to left, rgb(80, 80, 80), grey);
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            color: white;
+            font-size: larger;
+        }
+
+        div{
+            padding-left: 1rem;
+            padding-right: 1rem;
+            margin-top:18%;
+            margin-left: 30%;
+            margin-right: 30%;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            border: solid black;
+            text-align: center;
+        }
+        form{
+            margin-bottom: 1rem;
+        }
+        img{
+            width:10rem;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <img src="profil.png" alt="">
+        <p> Je m'appelle Philippe GARNIER. Je suis jeune étudiant en BUT informatique du DUT de Talence.
+            Pour une plus grande précision de ce que j'ai fait, veuillez regarder mon CV.
+        </p>
+        <form action="CV phil.pdf">
+            <input type="submit" value="Mon CV"/>
+        </form>
+        <form action="Index.html">
+            <input type="submit" value="Mes Projets" />
+        </form>
+    </div>
+</body>
+</html>

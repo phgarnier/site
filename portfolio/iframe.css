@@ -1,0 +1,14 @@
+iframe {
+    margin-left: 31rem;
+    margin-top: 1rem;
+    width: 50rem;
+    height: 55rem;
+}
+
+@media screen and (max-width : 1600px) {
+    iframe {
+        margin: 2rem;
+        width: 20rem;
+        height: 40rem;
+    }
+}

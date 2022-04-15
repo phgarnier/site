@@ -1,0 +1,16 @@
+Script started on 2022-04-01 15:44:14+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;phgarnier@info-211-05x.iut.bx1:~/Documents/PPP/portfolio/portfolio[38;5;71mphgarnier[38;5;246m@[38;5;111minfo-211-05x[38;5;246m:[38;5;208m~/Documents/PPP/portfolio/portfolio [38;5;246m$[0m ls
+ barre_menu.css   [0m[01;35mlogo-home.png[0m           Ret.Ex.Restaurant.pdf
+ deadshot.html    Menu_Restaurant.html   'SAE JPO.pdf'
+ [01;35mdeadshot.png[0m     Page_Précise.css        Sujet_JPO.html
+ [01;34mImageDiapo[0m       README.md               typescript
+ index.css        Ret.Ex.Restaurant       web_restaurant.html
+ Index.html       Ret.Ex.Restaurant.odp
+]0;phgarnier@info-211-05x.iut.bx1:~/Documents/PPP/portfolio/portfolio[38;5;71mphgarnier[38;5;246m@[38;5;111minfo-211-05x[38;5;246m:[38;5;208m~/Documents/PPP/portfolio/portfolio [38;5;246m$[0m cd ..
+]0;phgarnier@info-211-05x.iut.bx1:~/Documents/PPP/portfolio[38;5;71mphgarnier[38;5;246m@[38;5;111minfo-211-05x[38;5;246m:[38;5;208m~/Documents/PPP/portfolio [38;5;246m$[0m ls
+ [0m[01;34mportfolio[0m  [01;34m'portfolio pour moi'[0m
+]0;phgarnier@info-211-05x.iut.bx1:~/Documents/PPP/portfolio[38;5;71mphgarnier[38;5;246m@[38;5;111minfo-211-05x[38;5;246m:[38;5;208m~/Documents/PPP/portfolio [38;5;246m$[0m cd portfolio
+]0;phgarnier@info-211-05x.iut.bx1:~/Documents/PPP/portfolio/portfolio[38;5;71mphgarnier[38;5;246m@[38;5;111minfo-211-05x[38;5;246m:[38;5;208m~/Documents/PPP/portfolio/portfolio [38;5;246m$[0m cel[K[Klear
+[H[2J[3J]0;phgarnier@info-211-05x.iut.bx1:~/Documents/PPP/portfolio/portfolio[38;5;71mphgarnier[38;5;246m@[38;5;111minfo-211-05x[38;5;246m:[38;5;208m~/Documents/PPP/portfolio/portfolio [38;5;246m$[0m exit
+
+Script done on 2022-04-01 15:44:39+02:00 [COMMAND_EXIT_CODE="0"]
